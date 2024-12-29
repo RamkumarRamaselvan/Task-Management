@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Task-Management/static/css/main.44f7a0df.css",
-    "main.js": "/Task-Management/static/js/main.85e92566.js",
+    "main.js": "/Task-Management/static/js/main.e6ccf41b.js",
     "static/css/772.57943c8d.chunk.css": "/Task-Management/static/css/772.57943c8d.chunk.css",
     "static/js/772.94f2251f.chunk.js": "/Task-Management/static/js/772.94f2251f.chunk.js",
     "static/js/82.6486b6a0.chunk.js": "/Task-Management/static/js/82.6486b6a0.chunk.js",
@@ -11,7 +11,7 @@
     "static/media/user.png": "/Task-Management/static/media/user.a6143582309785dca610.png",
     "index.html": "/Task-Management/index.html",
     "main.44f7a0df.css.map": "/Task-Management/static/css/main.44f7a0df.css.map",
-    "main.85e92566.js.map": "/Task-Management/static/js/main.85e92566.js.map",
+    "main.e6ccf41b.js.map": "/Task-Management/static/js/main.e6ccf41b.js.map",
     "772.57943c8d.chunk.css.map": "/Task-Management/static/css/772.57943c8d.chunk.css.map",
     "772.94f2251f.chunk.js.map": "/Task-Management/static/js/772.94f2251f.chunk.js.map",
     "82.6486b6a0.chunk.js.map": "/Task-Management/static/js/82.6486b6a0.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.44f7a0df.css",
-    "static/js/main.85e92566.js"
+    "static/js/main.e6ccf41b.js"
   ]
 }
